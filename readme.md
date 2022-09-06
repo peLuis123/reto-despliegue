@@ -5,4 +5,7 @@ npm install express mongoose
 
 en el archvio index.js estara el codigo fuente de nuestro proyecto mientras que en el server pondremos los puertos que usaremos para poder conectar con la base de datos 
 
-para llamar a la imagen de mongodb no se necesita crear otro archivo dockerfile en su lugar se creara un archvio docker-compose y lo que aremos sera 
+para llamar a la imagen de mongodb no se necesita crear otro archivo dockerfile en su lugar se creara un archvio docker-compose y lo que aremos sera configurar este con nuestra base de datos
+
+
+***ver demo.js***
